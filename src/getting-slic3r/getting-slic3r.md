@@ -1,65 +1,55 @@
-% Downloading
+% 下載
 
-Slic3r can be downloaded directly from:
+Slic3r 可以從這裡直接下載:
 <http://slic3r.org/download>.
 
-Pre-compiled packages are available for Windows, Mac OS X and Linux.
-Windows and Linux users can choose between 32 and 64 bit versions to
-match their system.
+已經為Windows, Mac OS X 與 Linux等三大作業系統預先編譯完成。
+Windows 和 Linux 使用者可以依照所使用的作業系統來選擇使用32 或是 64 bit 版本。
 
-Source
+原始碼
 ------
 
-The source code is available via GitHub:
-<https://github.com/alexrj/Slic3r>. For more details on building from
-source see § below.
+全部的原始碼都可以從GitHub獲得:
+<https://github.com/alexrj/Slic3r>。 更多有關從原始碼編一的資訊請見底下的§。
 
-Installing
+安裝
 ==========
 
 Windows
 -------
 
-Unzip the downloaded zip file to a folder of your choosing, there is no
-installer script. The resulting folder contains two executables:
+下載並解壓縮zip壓縮檔，並沒有所謂的安裝程式，解壓縮後資料夾內有兩個執行檔:
 
--   `slic3r.exe` - starts the GUI version.
+-   `slic3r.exe` - 圖形化介面
 
--   `slic3r-console.exe` - can be used from the command line.
+-   `slic3r-console.exe` - 指令介面
 
-The zip file may then be deleted.
+解壓縮後zip檔案就可以刪除了。
 
 Mac OS X
 --------
 
-Double-click the downloaded dmg file, an instance of Finder should open
-together with an icon of the Slic3r program. Navigate to the
-Applications directory and drag and drop the Slic3r icon into it. The
-dmg file may then be deleted.
+點兩下開啟下載下來的dmg檔案，Finder應該會被開啟，其中有著Slic3r icon，將它拖曳至應用程式資料夾，即可完成安裝，最後壓縮檔就可以刪除了。
 
 Linux
 -----
 
-Extract the archive to a folder of your choosing. Either:
+解壓縮您所下載的壓縮檔，然後:
 
--   Start Slic3r directly by running the Slic3r executable, found in the
-    bin directory, or
+-   直接點選bin目錄下的Slic3r執行檔來開啟Slic3r。
 
--   Install Slic3r by running the do-install executable, also found in
-    the bin folder.
+-   或是透過bin目錄下的do-install執行檔來進行安裝。
 
-The archive file may then be deleted.
+壓縮檔就可以刪除了
 
-Building from source
+從原始碼進行編譯
 ====================
 
 
 
-For those wishing to live on the cutting edge, Slic3r can be compiled
-from the latest source files found on GitHub[^1].
+對於那些喜歡使用最新功能的使用者，可以GitHub[^1]找到所有的原始碼，並進行編譯。
 
-Up-to-date instructions for compiling and running from source can be
-found on the Slic3r wiki.
+最新的從原始碼編譯與執行的操作方法可以在Slic3r wiki找到。
 
 -   **GNU Linux**
 
