@@ -1,10 +1,8 @@
-% Welcome to the Slic3r Manual
+% 歡迎閱讀 Slic3r 使用手冊
 
-The source for this manual is available in a 
-[GitHub repository](https://github.com/alexrj/Slic3r-Manual).
-Help us to improve or translate it in your language.
+此手冊的原始碼都可以在[GitHub repository](https://github.com/alexrj/Slic3r-Manual)獲得。
+請幫助我們將它翻譯成您所使用的語言。
 
-More Slic3r documentation is listed in the 
-[wiki](https://github.com/alexrj/Slic3r/wiki/Documentation).
+更多的Slic3r文件已經被列表放在[wiki](https://github.com/alexrj/Slic3r/wiki/Documentation)。
 
 ![](images/screenshot1_400px.png)
